@@ -5,4 +5,4 @@ function convertCtoF(celsius) {
     
   }
   
-  convertCtoF(30);
+  convertCtoF(-30);
